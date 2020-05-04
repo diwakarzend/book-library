@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.book.library.controller.BookControllerTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.192 s - in com.book.library.controller.BookControllerTest
